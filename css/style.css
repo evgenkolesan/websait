@@ -1,0 +1,112 @@
+li,ol,ul{
+    margin: 0;
+    padding: 0;
+    list-style: none;
+}
+.copyright a{
+        color:#fff; 
+     }
+.copyright a:hover{
+        color:#0fb0d3;
+}
+.copyright> p {
+        color:  #fff;
+        font-size: 18px;
+        line-height: 28px;
+        text-align: center;
+}
+.submit:hover{
+ color:#0fb0d3 ;
+ background-color:#ddd;
+ border-width: 1px;
+}
+p {
+    font-weight: 300;
+    margin:0;
+    font-size: 15px;
+    line-height:24px;
+}
+#h1{
+    color: #fff;
+    padding-top:20px;
+    font-size:100px;
+    line-height:85px;
+    padding-bottom:40px;
+    text-transform:uppercase;
+    font-weight: bold;
+}
+.titlepage{  
+    padding-bottom: 50px;
+    text-align: right;
+} 
+#gallery{
+background-color:#ececec;
+padding: 110px 0px 110px 0px;
+}
+.Gallery_text p{
+    font-size:17px;
+    line-height:35px;
+    font-weight: 400px;
+    text-align:right;
+    color:#181716;
+}
+.more_button{
+    font-size: 16px;
+    border-color:#000;
+    border-width: 1px;
+    background-color:#000;
+    max-width:171px;
+    width:100%;
+    padding: 9px 0px 9px 0px;
+    border-radius:30px;
+    color: #fff;
+    text-align: center;
+}
+.more_button:hover{
+    background-color: #0ed1f0;
+    border-color: #0ed1f0;
+    color: #fff;
+    border-width: 1px;
+  }
+.about_box a{
+    background-color:#000;
+    border-color: #000;
+    color: #fff;
+    padding: 9px 0px 9px 0px;
+    border-width: 1px;
+    width: 100%;
+    max-width: 171px;
+    text-align: center;
+    border-radius: 30px;
+
+}
+.social_link a{
+    font-size:24px;
+    color: #161616;
+    background-color:#0fb0d3;
+    border-radius:80px;
+    width:41px;
+    height:40px;
+}
+#footer{
+    margin-top:90px;
+    background-color: #161616;
+}
+.news{
+padding-top: 35px;
+padding-right: 0;
+padding-left:0;
+padding-bottom :50px;
+width:71%;
+}
+.slider_section{
+ padding-top: 268px;}
+
+.text-bg span {
+    font-size: 80px;
+    line-height: 80px;
+    color: #0fc9da ;
+    text-transform:uppercase;
+    padding-bottom: 50px;
+    font-weight: 400px;
+}
